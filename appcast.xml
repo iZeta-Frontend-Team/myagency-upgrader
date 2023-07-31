@@ -3,14 +3,14 @@
     <channel>
         <title>My Agency - Appcast</title>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.1.1</title>
             <description>Chúng tôi cập nhật ứng dụng My Agency thường xuyên để cải thiện dịch vụ và nâng cao trãi nghiệm mới. Bản cập nhật với các thay đổi như sau:
-- Cập nhật các tính năng mới như tiện ích Quản lý khách mời, Danh sách BĐS quan tâm.
-- Bổ sung tính năng liên quan đến theo dõi các dự án và BĐS quan tâm, nhận thông báo khi có cập nhật mới.
+- Bổ sung thao tác click vào thông báo trên thiết bị để xem chi tiết: dự án, tin đăng, thông báo chúc mừng.
+- Bổ sung tính năng thông báo chung cho agent từ phía công ty.
 - Sửa lỗi và cải tiến.
 Hy vọng bạn đánh giá cao ứng dụng của chúng tôi và chúng tôi mong muốn trở thành một phần trong thành công của bạn!</description>
-            <pubDate>Mon, 24 Jul 2023 20:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.1.0" sparkle:os="android" />
+            <pubDate>Mon, 31 Jul 2023 07:20:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.1.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
