@@ -3,15 +3,15 @@
     <channel>
         <title>My Agency - Appcast</title>
         <item>
-            <title>Version 1.1.7</title>
-            <description>Chúng tôi cập nhật ứng dụng My Agency thường xuyên để cải thiện dịch vụ và nâng cao trãi nghiệm mới. Bản cập nhật với các thay đổi như sau:
-- Bổ sung tính năng mới: Messages, Thông tin đăng ký agent.
-- Cấu trúc lại giao diện chính của ứng dụng và luồng thông tin của trang tài khoản.
-- Cập nhật lại luồng và giao diện của cụm tính năng myERA giành cho agent.
-- Sửa lỗi và cải tiến.
-Hy vọng bạn đánh giá cao ứng dụng của chúng tôi và chúng tôi mong muốn trở thành một phần trong thành công của bạn!</description>
-            <pubDate>Tue, 21 May 2024 09:20:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.1.7" sparkle:os="android" />
+            <title>Version 1.1.8</title>
+            <description>Bản cập nhật với các thay đổi như sau:
+- Cập nhật lại giao diện của giỏ hàng dự án.
+- Cập nhật lại giao diện trang bộ lọc nâng cao của giỏ hàng, dự án.
+- Cập nhật giao diện và luồng thông tin của trang chi tiết BĐS, tin đăng.
+- Cập nhật lại luồng và giao diện của trang kết quả tìm kiếm dự án và lọc BĐS theo nhóm dự án.
+- Sửa lỗi và cải tiến.</description>
+            <pubDate>Mon, 24 Jun 2024 12:20:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.1.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
