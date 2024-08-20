@@ -3,13 +3,13 @@
     <channel>
         <title>My Agency - Appcast</title>
         <item>
-            <title>Version 1.1.9</title>
+            <title>Version 1.2.0</title>
             <description>Bản cập nhật với các thay đổi như sau:
-- Bổ sung thêm loại giao diện mới cho giỏ hàng dự án.
-- Bổ sung tính năng lọc và chia sẻ giỏ hàng bằng file PDF.
+- Bổ sung thông tin doanh số thưởng CÁ NHÂN cho agent.
+- Bổ sung danh sách giao dịch ghi nhận thưởng CÁ NHÂN cho agent.
 - Sửa lỗi và cải tiến.</description>
-            <pubDate>Wed, 31 Jul 2024 11:58:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.1.9" sparkle:os="android" />
+            <pubDate>Tue, 20 Aug 2024 11:58:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.2.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
