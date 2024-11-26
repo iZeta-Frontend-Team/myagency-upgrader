@@ -5,10 +5,10 @@
         <item>
             <title>Version 1.2.4</title>
             <description>Bản cập nhật với các thay đổi như sau:
-- Cập nhật tính năng và giao diện đăng tin giành cho agent.
+- Cập nhật thông tin sơ đồ tổ chức cho cấp quản lý.
 - Sửa lỗi và cải tiến.</description>
-            <pubDate>Fri, 3 Oct 2024 15:30:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.2.4" sparkle:os="android" />
+            <pubDate>Tue, 26 Nov 2024 16:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.eravn.my_agency" sparkle:version="1.2.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
